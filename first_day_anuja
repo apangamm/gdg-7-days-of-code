@@ -1,8 +1,0 @@
-# Ask the user for a word
-word = input("Enter a word: ")
-
-# Repeat the word twice on the same line
-result = word + " " + word
-
-# Print the result
-print(result)
